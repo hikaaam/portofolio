@@ -44,7 +44,7 @@
 
 
             <a class="nav-link" target="_blank" rel="noopener noreferrer" style="color:#eee"
-                href="images/lh/1.png">Download CV<span class="sr-only">(current)</span></a>
+                href="assets/cv/curriculum_vitae - Ilyas Abdurahman Yusuf.pdf">Download CV<span class="sr-only">(current)</span></a>
 
         </div>
     </nav>
@@ -76,116 +76,7 @@
                 Build With React Native
             </h1>
             <br>
-            <div id="hidroponik">
-                <p> <a href="https://github.com/hikaaam/Hidroponik" id="LinkApp">Hydroponic app</a><br> that can have multiple users and plants that
-                    controlled
-                    by
-                    arduino. <br>with a lots of feature including Internet of Things. <br>Realtime data status of every
-                    plant,
-                    <br> Notifications system using Firebase Cloud Messaging, Etc.
-                </p>
-                <div class="row" style="width:100%;height: 60%;">
-                    <div class="col sm-4">
-                        <div id="demo" class="carousel slide" data-ride="carousel">
-
-                            <!-- Indicators -->
-                            <ul class="carousel-indicators">
-                                <li data-target="#demo" data-slide-to="0" class="active"></li>
-                                <li data-target="#demo" data-slide-to="1"></li>
-                                <li data-target="#demo" data-slide-to="2"></li>
-                            </ul>
-
-                            <!-- The slideshow -->
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                    <img id="myImage" draggable="false" src='images/1.png'></img>
-                                </div>
-                                <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/2.png'></img>
-                                </div>
-                                <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/3.png'></img>
-                                </div>
-                            </div>
-
-                            <!-- Left and right controls -->
-                            <a class="carousel-control-prev" href="#demo" data-slide="prev">
-                                <span class="carousel-control-prev-icon"></span>
-                            </a>
-                            <a class="carousel-control-next" href="#demo" data-slide="next">
-                                <span class="carousel-control-next-icon"></span>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col sm-4">
-                        <div id="demo" class="carousel slide" data-ride="carousel">
-
-                            <!-- Indicators -->
-                            <ul class="carousel-indicators">
-                                <li data-target="#demo" data-slide-to="0" class="active"></li>
-                                <li data-target="#demo" data-slide-to="1"></li>
-                                <li data-target="#demo" data-slide-to="2"></li>
-                            </ul>
-
-                            <!-- The slideshow -->
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                    <img id="myImage" draggable="false" src='images/1.png'></img>
-                                </div>
-                                <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/2.png'></img>
-                                </div>
-                                <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/3.png'></img>
-                                </div>
-                            </div>
-
-                            <!-- Left and right controls -->
-                            <a class="carousel-control-prev" href="#demo" data-slide="prev">
-                                <span class="carousel-control-prev-icon"></span>
-                            </a>
-                            <a class="carousel-control-next" href="#demo" data-slide="next">
-                                <span class="carousel-control-next-icon"></span>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col sm-4">
-                        <div id="demo" class="carousel slide" data-ride="carousel">
-
-                            <!-- Indicators -->
-                            <ul class="carousel-indicators">
-                                <li data-target="#demo" data-slide-to="0" class="active"></li>
-                                <li data-target="#demo" data-slide-to="1"></li>
-                                <li data-target="#demo" data-slide-to="2"></li>
-                            </ul>
-
-                            <!-- The slideshow -->
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                    <img id="myImage" draggable="false" src='images/1.png'></img>
-                                </div>
-                                <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/2.png'></img>
-                                </div>
-                                <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/3.png'></img>
-                                </div>
-                            </div>
-
-                            <!-- Left and right controls -->
-                            <a class="carousel-control-prev" href="#demo" data-slide="prev">
-                                <span class="carousel-control-prev-icon"></span>
-                            </a>
-                            <a class="carousel-control-next" href="#demo" data-slide="next">
-                                <span class="carousel-control-next-icon"></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- selanjutnya -->
-            <div id="hidroponik">
+			            <div id="hidroponik">
                 <br>
                 <br>
                 <p> <a href="https://github.com/hikaaam/sipdeh" id="LinkApp">Sipdeh</a><br> Sistem Informasi Hukum Pemerintah Daerah.
@@ -194,7 +85,7 @@
                     <br> And download PDF version of any local law using this app.
                 </p>
                 <div class="row" style="width:100%;height: 60%;">
-                    <div class="col sm-3">
+                    <div id="dark" class="col sm-3">
                         <div id="sipdeh1" class="carousel slide" data-ride="carousel">
 
                             <!-- Indicators -->
@@ -207,13 +98,13 @@
                             <!-- The slideshow -->
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img id="myImage" draggable="false" src='images/sipdeh/2.png'></img>
+                                    <img id="myImage" draggable="false" src='images/sipdeh/1-.png'></img>
                                 </div>
                                 <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/sipdeh/1.png'></img>
+                                    <img id="myImage" draggable="false" src='images/sipdeh/2-.png'></img>
                                 </div>
                                 <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/sipdeh/3.png'></img>
+                                    <img id="myImage" draggable="false" src='images/sipdeh/3-.png'></img>
                                 </div>
                             </div>
 
@@ -226,72 +117,101 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col sm-3">
-                        <div id="sipdeh2" class="carousel slide" data-ride="carousel">
-
-                            <!-- Indicators -->
-                            <ul class="carousel-indicators">
-                                <li data-target="#sipdeh2" data-slide-to="0" class="active"></li>
-                                <li data-target="#sipdeh2" data-slide-to="1"></li>
-                                <li data-target="#sipdeh2" data-slide-to="2"></li>
-                            </ul>
-
-                            <!-- The slideshow -->
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                    <img id="myImage" draggable="false" src='images/sipdeh/5.png'></img>
-                                </div>
-                                <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/sipdeh/6.png'></img>
-                                </div>
-                                <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/sipdeh/7.png'></img>
-                                </div>
-                            </div>
-
-                            <!-- Left and right controls -->
-                            <a class="carousel-control-prev" href="#sipdeh2" data-slide="prev">
-                                <span class="carousel-control-prev-icon"></span>
-                            </a>
-                            <a class="carousel-control-next" href="#sipdeh2" data-slide="next">
-                                <span class="carousel-control-next-icon"></span>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col sm-3">
-                        <div id="sipdeh3" class="carousel slide" data-ride="carousel">
-
-                            <!-- Indicators -->
-                            <ul class="carousel-indicators">
-                                <li data-target="#sipdeh3" data-slide-to="0" class="active"></li>
-                                <li data-target="#sipdeh3" data-slide-to="1"></li>
-                                <li data-target="#sipdeh3" data-slide-to="2"></li>
-                            </ul>
-
-                            <!-- The slideshow -->
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                    <img id="myImage" draggable="false" src='images/sipdeh/7.png'></img>
-                                </div>
-                                <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/sipdeh/8.png'></img>
-                                </div>
-                                <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/sipdeh/9.png'></img>
-                                </div>
-                            </div>
-
-                            <!-- Left and right controls -->
-                            <a class="carousel-control-prev" href="#sipdeh3" data-slide="prev">
-                                <span class="carousel-control-prev-icon"></span>
-                            </a>
-                            <a class="carousel-control-next" href="#sipdeh3" data-slide="next">
-                                <span class="carousel-control-next-icon"></span>
-                            </a>
-                        </div>
-                    </div>
                 </div>
             </div>
+			<!-- selanjutnya -->
+            <div id="hidroponik" style="margin-top:2%">
+                <p> <a href="https://github.com/hikaaam/Hidroponik" id="LinkApp">Hydroponic app</a><br> that can have multiple users and plants that
+                    controlled
+                    by
+                    arduino. <br>with a lots of feature including Internet of Things. <br>Realtime data status of every
+                    plant,
+                    <br> Notifications system using Firebase Cloud Messaging, Etc.
+                </p>
+                <div class="row" style="width:100%;height: 60%;">
+                    <div class="col sm-12">
+                        <div id="demo1" class="carousel slide" data-ride="carousel">
+
+                            <!-- Indicators -->
+                            <ul class="carousel-indicators">
+                                <li data-target="#demo1" data-slide-to="0" class="active"></li>
+                                <li data-target="#demo1" data-slide-to="1"></li>
+                                <li data-target="#demo1" data-slide-to="2"></li>
+                            </ul>
+
+                            <!-- The slideshow -->
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img id="myImage" draggable="false" src='images/hr/1-.png'></img>
+                                </div>
+                                <div class="carousel-item">
+                                    <img id="myImage" draggable="false" src='images/hr/2-.png'></img>
+                                </div>
+                                <div class="carousel-item">
+                                    <img id="myImage" draggable="false" src='images/hr/3-.png'></img>
+                                </div>
+                            </div>
+
+                            <!-- Left and right controls -->
+                            <a class="carousel-control-prev" href="#demo1" data-slide="prev">
+                                <span class="carousel-control-prev-icon"></span>
+                            </a>
+                            <a class="carousel-control-next" href="#demo1" data-slide="next">
+                                <span class="carousel-control-next-icon"></span>
+                            </a>
+                        </div>
+                    </div>
+                 
+                </div>
+            </div>
+
+            <!-- selanjutnya --> 
+
+            <div id="hidroponik" style="margin-top:2%">
+                <p> <a href="https://github.com/hikaaam/Hidroponik" id="LinkApp">Netcents Wallet</a><br> that can have multiple users and plants that
+                    controlled
+                    by
+                    arduino. <br>with a lots of feature including Internet of Things. <br>Realtime data status of every
+                    plant,
+                    <br> Notifications system using Firebase Cloud Messaging, Etc.
+                </p>
+                <div class="row" style="width:100%;height: 60%;">
+                    <div class="col sm-12">
+                        <div id="nc" class="carousel slide" data-ride="carousel">
+
+                            <!-- Indicators -->
+                            <ul class="carousel-indicators">
+                                <li data-target="#nc" data-slide-to="0" class="active"></li>
+                                <li data-target="#nc" data-slide-to="1"></li>
+                                <li data-target="#nc" data-slide-to="2"></li>
+                            </ul>
+
+                            <!-- The slideshow -->
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img id="myImage" draggable="false" src='images/nc/1-.png'></img>
+                                </div>
+                                <div class="carousel-item">
+                                    <img id="myImage" draggable="false" src='images/nc/2-.png'></img>
+                                </div>
+                                <div class="carousel-item">
+                                    <img id="myImage" draggable="false" src='images/nc/3-.png'></img>
+                                </div>
+                            </div>
+
+                            <!-- Left and right controls -->
+                            <a class="carousel-control-prev" href="#nc" data-slide="prev">
+                                <span class="carousel-control-prev-icon"></span>
+                            </a>
+                            <a class="carousel-control-next" href="#nc" data-slide="next">
+                                <span class="carousel-control-next-icon"></span>
+                            </a>
+                        </div>
+                    </div>
+                 
+                </div>
+            </div>
+
         </div>
 
     </div>
@@ -363,7 +283,10 @@
                         </a>
                     </div>
                 </div>
-                <div id="dark" class="col sm-4">
+               
+            </div>
+			<div class="row" style="width:100%;height: 60%;margin-top:2%;">
+			 <div id="dark" class="col sm-4">
                     <div id="lara4" class="carousel slide" data-ride="carousel">
 
                         <!-- Indicators -->
@@ -403,8 +326,7 @@
                         </a>
                     </div>
                 </div>
-
-            </div>
+			</div>
             <!-- selanjutnya -->
             <br>
             <div id="VampireGames">
@@ -454,46 +376,8 @@
                             </a>
                         </div>
                     </div>
-                    <div id="dark" class="col sm-4">
-                        <div id="lara2" class="carousel slide" data-ride="carousel">
-
-                            <!-- Indicators -->
-                            <ul class="carousel-indicators">
-                                <li data-target="#lara2" data-slide-to="0" class="active"></li>
-                                <li data-target="#lara2" data-slide-to="1"></li>
-                                <li data-target="#lara2" data-slide-to="2"></li>
-                                <li data-target="#lara2" data-slide-to="3"></li>
-                                <li data-target="#lara2" data-slide-to="4"></li>
-                            </ul>
-
-                            <!-- The slideshow -->
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                    <img id="myImage" draggable="false" src='images/vg/6.png'></img>
-                                </div>
-                                <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/vg/7.png'></img>
-                                </div>
-                                <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/vg/8.png'></img>
-                                </div>
-                                <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/vg/9.png'></img>
-                                </div>
-                                <div class="carousel-item">
-                                    <img id="myImage" draggable="false" src='images/vg/10.png'></img>
-                                </div>
-                            </div>
-
-                            <!-- Left and right controls -->
-                            <a class="carousel-control-prev" href="#lara2" data-slide="prev">
-                                <span class="carousel-control-prev-icon"></span>
-                            </a>
-                            <a class="carousel-control-next" href="#lara2" data-slide="next">
-                                <span class="carousel-control-next-icon"></span>
-                            </a>
-                        </div>
-                    </div>
+                   
+					
 
                 </div>
                 <div style="padding-top: 3.5%;margin-top: 13%;" id="reversePadding"
